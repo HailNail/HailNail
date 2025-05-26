@@ -1,10 +1,10 @@
-
 # Hi, I'm Nail Gati!  
 *Aspiring Cryptosamurai on the path to mastering code and DeFi*
 
 
-I'm a **JavaScript beginner** currently learning core methods and the **DOM**.  
-Right now, I'm working through **freeCodeCamp** projects and diving into **MDN documentation** to strengthen my understanding.
+ I'm a **JavaScript developer in training**, currently mastering **asynchronous programming**, **modular structure**, and **API integration**.  
+ I've built several projects using **vanilla JS**, focusing on clean DOM manipulation, real-time UX feedback, and structured code.  
+ My learning path includes **freeCodeCamp**, **MDN Web Docs**, and hands-on practice through progressively challenging builds.
 
 ## Goals
 
@@ -29,19 +29,17 @@ Right now, I'm working through **freeCodeCamp** projects and diving into **MDN d
 ## Hobbies & Interests
 
 - Playing the **violin**
-- **Chess** enthusiast
 - Reading **philosophy**
-- Trading & investing in **cryptocurrency**
+- Investing in **cryptocurrency**
 - Staying active with **sports**
 
 ## Philosophy
 
-I’m walking the path of the **Cryptosamurai**, learning code with discipline and trading with stoicism —  
-because my dream is to **be the master of this life**.
+I walk the path of the **digital samurai** — sharpening my mind with code and tempering my soul with discipline.  
+I believe in slow, deliberate mastery. In building with honor. In living with principle.  
+In programming, I follow the same code: **Focus. Simplicity. Stoicism.**
 
 ---
 
-> “Waste no more time arguing what a good man should be. Be one.” — *Marcus Aurelius*
-
-
-
+> “You have power over your mind — not outside events. Realize this, and you will find strength.”  
+> — *Marcus Aurelius*
